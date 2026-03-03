@@ -10,7 +10,7 @@
 
 </br>
 
-
+Bitmap editing encompasses the processes of altering images, whether they are digital photographs, traditional photo-chemical photographs, or illustrations. Traditional analog image editing is known as photo retouching, using tools such as an airbrush to modify photographs or edit illustrations with any traditional art medium. Graphic software programs, which can be broadly grouped into [vector graphics editors](https://en.wikipedia.org/wiki/Vector_graphics_editor), [raster graphics editors](https://en.wikipedia.org/wiki/Raster_graphics_editor), and 3D modelers, are the primary tools with which a user may manipulate, enhance, and transform images. Many image editing programs are also used to [render](https://en.wikipedia.org/wiki/Non-photorealistic_rendering#Artistic) or create computer art from scratch. The term "image editing" usually refers only to the editing of 2D images, not 3D ones.
 
 
 
