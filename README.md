@@ -12,8 +12,13 @@
 
 Bitmap editing encompasses the processes of altering images, whether they are digital photographs, traditional photo-chemical photographs, or illustrations. Traditional analog image editing is known as photo retouching, using tools such as an airbrush to modify photographs or edit illustrations with any traditional art medium. Graphic software programs, which can be broadly grouped into [vector graphics editors](https://en.wikipedia.org/wiki/Vector_graphics_editor), [raster graphics editors](https://en.wikipedia.org/wiki/Raster_graphics_editor), and 3D modelers, are the primary tools with which a user may manipulate, enhance, and transform images. Many image editing programs are also used to [render](https://en.wikipedia.org/wiki/Non-photorealistic_rendering#Artistic) or create computer art from scratch. The term "image editing" usually refers only to the editing of 2D images, not 3D ones.
 
+</br>
 
+![BitmapEffects](https://github.com/user-attachments/assets/8c903b0b-7039-4f03-aed7-891bd042ccb0)
 
+</br>
+
+Raster images are stored on a computer in the form of a grid of picture elements, or pixels. These pixels contain the image's color and brightness information. Image editors can change the pixels to enhance the image in many ways. The pixels can be changed as a group or individually by the sophisticated algorithms within the image editors. This article mostly refers to [bitmap](https://en.wikipedia.org/wiki/Bitmap) graphics editors, which are often used to alter photographs and other raster graphics. However, vector graphics software, such as [Adobe Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator), [CorelDRAW](https://en.wikipedia.org/wiki/CorelDRAW), [Xara Designer Pro](https://en.wikipedia.org/wiki/Xara_Designer_Pro%2B) or [Inkscape](https://en.wikipedia.org/wiki/Inkscape), is used to create and modify vector images, which are stored as descriptions of lines, Bézier curves, and text instead of pixels. It is easier to rasterize a vector image than to vectorize a raster image; how to go about vectorizing a raster image is the focus of much research in the field of computer vision. Vector images can be modified more easily because they contain descriptions of the shapes for easy rearrangement. They are also scalable, being rasterizable at any resolution.
 
 
 
