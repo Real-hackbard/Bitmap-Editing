@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.790,D:\Incoming\[.WORK]\Image Effects Pro\Sample\Sample.dproj=D:\Incoming\[.WORK]\Image Effects Pro\Sample\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,D:\Incoming\[.WORK]\Image.Effects.Pro\Sample\Unit1.dfm=D:\Incoming\[.WORK]\Image.Effects.Pro\Sample\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,D:\Incoming\[.WORK]\Image.Effects.Pro\Sample\Unit1.pas=D:\Incoming\[.WORK]\Image.Effects.Pro\Sample\Main.pas</Transaction>
+  </Transactions>
+</BorlandProject>
