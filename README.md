@@ -22,4 +22,5 @@ Raster images are stored on a computer in the form of a grid of picture elements
 
 # Update list:
 * [Bitmap Effects](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bitmap%20Effects)
+* [RGB Colorizer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/RGB%20Colorizer)
 
