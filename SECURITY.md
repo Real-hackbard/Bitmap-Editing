@@ -9,6 +9,7 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: Bitmap Effects |
 | 1.0.x   | :white_check_mark: RGB Colorizer |
+| 1.0.x   | :white_check_mark: Zone Select |
 
 ## Reporting a Vulnerability
 
