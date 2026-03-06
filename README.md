@@ -26,3 +26,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Zone Select](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Zone%20Select)
 * [RGB Pulse](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/RGB%20Pulse)
 * [Pencil Drawings](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Pencil%20Drawings)
+* [Bitmap Rotation](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bitmap%20Rotation)
