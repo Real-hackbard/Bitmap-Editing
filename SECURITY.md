@@ -12,6 +12,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Zone Select |
 | 1.0.x   | :white_check_mark: RGB Pulse |
 | 1.0.x   | :white_check_mark: Pencil Drawings |
+| 1.0.x   | :white_check_mark: Bitmap Deformer |
 
 ## Reporting a Vulnerability
 
