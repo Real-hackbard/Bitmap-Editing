@@ -16,6 +16,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Anti Aliasing & Blur |
 | 1.0.x   | :white_check_mark: Fast Transformation |
 | 1.0.x   | :white_check_mark: Deformation Triangle |
+| 1.0.x   | :white_check_mark: Change Pixel Color |
 
 ## Reporting a Vulnerability
 
