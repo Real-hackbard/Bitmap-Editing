@@ -28,3 +28,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Pencil Drawings](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Pencil%20Drawings)
 * [Bitmap Rotation](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bitmap%20Rotation)
 * [Bitmap Deformer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bitmap%20Deformer)
+* [Anti Aliasing & Blur](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Anti%20Aliasing%20%26%20Blur)
