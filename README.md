@@ -30,3 +30,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Bitmap Deformer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bitmap%20Deformer)
 * [Anti Aliasing & Blur](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Anti%20Aliasing%20%26%20Blur)
 * [Fast Transformation](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Fast%20Transformation)
+* [Deformation Triangle](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Deformation%20Triangle)
