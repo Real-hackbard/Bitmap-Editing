@@ -17,6 +17,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Fast Transformation |
 | 1.0.x   | :white_check_mark: Deformation Triangle |
 | 1.0.x   | :white_check_mark: Change Pixel Color |
+| 1.0.x   | :white_check_mark: Pixel Resampler |
 
 ## Reporting a Vulnerability
 
