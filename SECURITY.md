@@ -15,6 +15,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Bitmap Deformer |
 | 1.0.x   | :white_check_mark: Anti Aliasing & Blur |
 | 1.0.x   | :white_check_mark: Fast Transformation |
+| 1.0.x   | :white_check_mark: Deformation Triangle |
 
 ## Reporting a Vulnerability
 
