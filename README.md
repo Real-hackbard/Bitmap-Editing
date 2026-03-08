@@ -34,3 +34,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Change Pixel Color](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Change%20Pixel%20Color)
 * [Pixel Resampler](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Pixel%20Resampler)
 * [Hightlight Pixel](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Hightlight%20Pixel)
+* [Sharping](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Sharping)
