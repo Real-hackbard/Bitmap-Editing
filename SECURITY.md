@@ -20,6 +20,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Pixel Resampler |
 | 1.0.x   | :white_check_mark: Hightlight Pixel |
 | 1.0.x   | :white_check_mark: Sharping |
+| 1.0.x   | :white_check_mark: Bitmap Resizer |
 
 ## Reporting a Vulnerability
 
