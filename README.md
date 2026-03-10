@@ -39,3 +39,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Loading oversized Bitmaps](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Loading%20oversized%20Bitmaps)
 * [Brightness](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Brightness)
 * [Bump Mapping](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bump%20Mapping)
+* [Rotate](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Rotate)
