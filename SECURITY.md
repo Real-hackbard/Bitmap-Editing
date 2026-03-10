@@ -23,6 +23,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Bitmap Resizer |
 | 1.0.x   | :white_check_mark: Loading oversized Bitmaps |
 | 1.0.x   | :white_check_mark: Brightness |
+| 1.0.x   | :white_check_mark: Bump Mapping |
 
 ## Reporting a Vulnerability
 
