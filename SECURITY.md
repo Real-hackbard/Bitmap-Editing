@@ -24,6 +24,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Loading oversized Bitmaps |
 | 1.0.x   | :white_check_mark: Brightness |
 | 1.0.x   | :white_check_mark: Bump Mapping |
+| 1.0.x   | :white_check_mark: Rotate |
 
 ## Reporting a Vulnerability
 
