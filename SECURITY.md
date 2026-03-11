@@ -26,6 +26,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Bump Mapping |
 | 1.0.x   | :white_check_mark: Rotate |
 | 1.0.x   | :white_check_mark: Contrast |
+| 1.0.x   | :white_check_mark: Cross Drawer |
 
 ## Reporting a Vulnerability
 
