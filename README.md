@@ -43,3 +43,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Contrast](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Contrast)
 * [Cross Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Cross%20Drawer)
 * [Emboss](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Emboss)
+* [Grayscale](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Grayscale)
