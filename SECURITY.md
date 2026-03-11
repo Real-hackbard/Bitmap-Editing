@@ -28,6 +28,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Contrast |
 | 1.0.x   | :white_check_mark: Cross Drawer |
 | 1.0.x   | :white_check_mark: Emboss |
+| 1.0.x   | :white_check_mark: Grayscale |
 
 ## Reporting a Vulnerability
 
