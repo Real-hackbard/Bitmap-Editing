@@ -31,6 +31,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Grayscale |
 | 1.0.x   | :white_check_mark: Sepia |
 | 1.0.x   | :white_check_mark: Set RGB |
+| 1.0.x   | :white_check_mark: Spray Drawer |
 
 ## Reporting a Vulnerability
 
