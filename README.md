@@ -46,3 +46,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Grayscale](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Grayscale)
 * [Sepia](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Sepia)
 * [Set RGB](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Set%20RGB)
+* [Spray Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Spray%20Drawer)
