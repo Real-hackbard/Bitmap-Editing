@@ -34,6 +34,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Spray Drawer |
 | 1.0.x   | :white_check_mark: Infrared |
 | 1.0.x   | :white_check_mark: TrueType Drawer |
+| 1.0.x   | :white_check_mark: Bitmap Folding |
 
 ## Reporting a Vulnerability
 
