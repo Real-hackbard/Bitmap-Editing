@@ -50,3 +50,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Infrared](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Infrared)
 * [TrueType Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/TrueType%20Drawer)
 * [Bitmap Folding](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bitmap%20Folding)
+* [Zoom](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Zoom)
