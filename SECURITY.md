@@ -36,6 +36,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: TrueType Drawer |
 | 1.0.x   | :white_check_mark: Bitmap Folding |
 | 1.0.x   | :white_check_mark: Zoom |
+| 1.0.x   | :white_check_mark: Tile Bitmap |
 
 ## Reporting a Vulnerability
 
