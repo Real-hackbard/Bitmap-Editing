@@ -52,3 +52,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Bitmap Folding](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Bitmap%20Folding)
 * [Zoom](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Zoom)
 * [Tile Bitmap](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Tile%20Bitmap)
+* [Zone Cutter](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Zone%20Cutter)
