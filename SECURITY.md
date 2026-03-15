@@ -38,6 +38,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Zoom |
 | 1.0.x   | :white_check_mark: Tile Bitmap |
 | 1.0.x   | :white_check_mark: Zone Cutter |
+| 1.0.x   | :white_check_mark: RGB Toner |
 
 ## Reporting a Vulnerability
 
