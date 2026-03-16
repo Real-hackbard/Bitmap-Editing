@@ -40,6 +40,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Zone Cutter |
 | 1.0.x   | :white_check_mark: RGB Toner |
 | 1.0.x   | :white_check_mark: Inverting |
+| 1.0.x   | :white_check_mark: Fade In-Out |
 
 ## Reporting a Vulnerability
 
