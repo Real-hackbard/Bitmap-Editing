@@ -55,3 +55,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Zone Cutter](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Zone%20Cutter)
 * [RGB Toner](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/RGB%20Toner)
 * [Inverting](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Inverting)
+* [Fade In-Out](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Fade%20In-Out)
