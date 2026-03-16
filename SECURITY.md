@@ -42,6 +42,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Inverting |
 | 1.0.x   | :white_check_mark: Fade In-Out |
 | 1.0.x   | :white_check_mark: Gradient Plasma |
+| 1.0.x   | :white_check_mark: Copy Part |
 
 ## Reporting a Vulnerability
 
