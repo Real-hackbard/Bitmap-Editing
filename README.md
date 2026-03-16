@@ -57,3 +57,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Inverting](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Inverting)
 * [Fade In-Out](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Fade%20In-Out)
 * [Gradient Plasma](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Gradient%20Plasma)
+* [Copy Part](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Copy%20Part)
