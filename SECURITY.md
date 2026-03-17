@@ -45,6 +45,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Copy Part |
 | 1.0.x   | :white_check_mark: Gradient Drawer |
 | 1.0.x   | :white_check_mark: Gradient Shapes |
+| 1.0.x   | :white_check_mark: Merger |
 
 ## Reporting a Vulnerability
 
