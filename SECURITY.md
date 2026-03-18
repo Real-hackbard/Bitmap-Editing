@@ -48,6 +48,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Merger |
 | 1.0.x   | :white_check_mark: Pixel Drawer |
 | 1.0.x   | :white_check_mark: Pixel Sorting |
+| 1.0.x   | :white_check_mark: Typewriter |
 
 ## Reporting a Vulnerability
 
