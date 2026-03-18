@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.046,D:\Incoming\[.WORK]\Bitmap Editing\[TImage]\sortieren\psortier.dproj=D:\Incoming\[.WORK]\Bitmap Editing\[TImage]\sortieren\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,D:\Incoming\[.WORK]\Bitmap Editing\[TImage]\sortieren\sortier.pas=D:\Incoming\[.WORK]\Bitmap Editing\[TImage]\sortieren\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,D:\Incoming\[.WORK]\Bitmap Editing\[TImage]\sortieren\sortier.dfm=D:\Incoming\[.WORK]\Bitmap Editing\[TImage]\sortieren\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
