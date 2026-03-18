@@ -47,6 +47,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Gradient Shapes |
 | 1.0.x   | :white_check_mark: Merger |
 | 1.0.x   | :white_check_mark: Pixel Drawer |
+| 1.0.x   | :white_check_mark: Pixel Sorting |
 
 ## Reporting a Vulnerability
 
