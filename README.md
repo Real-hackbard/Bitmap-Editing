@@ -62,3 +62,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Gradient Shapes](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Gradient%20Shapes)
 * [Merger](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Merger)
 * [Pixel Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Pixel%20Drawer)
+* [Pixel Sorting](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Pixel%20Sorting)
