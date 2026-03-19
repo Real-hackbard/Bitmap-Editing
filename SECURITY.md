@@ -49,6 +49,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Pixel Drawer |
 | 1.0.x   | :white_check_mark: Pixel Sorting |
 | 1.0.x   | :white_check_mark: Typewriter |
+| 1.0.x   | :white_check_mark: Spherical Reflection |
 
 ## Reporting a Vulnerability
 
