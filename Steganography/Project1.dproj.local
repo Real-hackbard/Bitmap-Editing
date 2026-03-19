@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.365,D:\Incoming\[.WORK]\michael-puff\mathematikalphae.de_SteffenPolster_quelltexte_delphi\informatik\Steganography\ustegano.pas=D:\Incoming\[.WORK]\michael-puff\mathematikalphae.de_SteffenPolster_quelltexte_delphi\informatik\Steganography\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,D:\Incoming\[.WORK]\michael-puff\mathematikalphae.de_SteffenPolster_quelltexte_delphi\informatik\Steganography\pstegano.dproj=D:\Incoming\[.WORK]\michael-puff\mathematikalphae.de_SteffenPolster_quelltexte_delphi\informatik\Steganography\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,D:\Incoming\[.WORK]\michael-puff\mathematikalphae.de_SteffenPolster_quelltexte_delphi\informatik\Steganography\ustegano.dfm=D:\Incoming\[.WORK]\michael-puff\mathematikalphae.de_SteffenPolster_quelltexte_delphi\informatik\Steganography\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
