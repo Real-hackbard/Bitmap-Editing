@@ -50,6 +50,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Pixel Sorting |
 | 1.0.x   | :white_check_mark: Typewriter |
 | 1.0.x   | :white_check_mark: Spherical Reflection |
+| 1.0.x   | :white_check_mark: Steganography |
 
 ## Reporting a Vulnerability
 
