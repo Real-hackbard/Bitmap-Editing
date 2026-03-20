@@ -66,3 +66,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Typewriter](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Typewriter)
 * [Spherical Reflection](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Spherical%20Reflection)
 * [Steganography](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Steganography)
+* [Animate Canvas](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Animate%20Canvas)
