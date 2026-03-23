@@ -70,3 +70,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Cantor Dust Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Cantor%20Dust%20Drawer)
 * [C-Curve Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/C-Curve%20Drawer)
 * [Dragon Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Dragon%20Drawer)
+* [Fractale Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Fractale%20Drawer)
