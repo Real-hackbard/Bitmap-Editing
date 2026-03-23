@@ -68,3 +68,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Steganography](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Steganography)
 * [Animate Canvas](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Animate%20Canvas)
 * [Cantor Dust Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Cantor%20Dust%20Drawer)
+* [C-Curve Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/C-Curve%20Drawer)
