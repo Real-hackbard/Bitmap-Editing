@@ -52,6 +52,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Spherical Reflection |
 | 1.0.x   | :white_check_mark: Steganography |
 | 1.0.x   | :white_check_mark: Animate Canvas |
+| 1.0.x   | :white_check_mark: Cantor Dust Drawer |
 
 ## Reporting a Vulnerability
 
