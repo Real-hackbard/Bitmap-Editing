@@ -54,6 +54,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Animate Canvas |
 | 1.0.x   | :white_check_mark: Cantor Dust Drawer |
 | 1.0.x   | :white_check_mark: C-Curve Drawer |
+| 1.0.x   | :white_check_mark: Dragon Drawer |
 
 ## Reporting a Vulnerability
 
