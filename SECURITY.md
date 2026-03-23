@@ -57,6 +57,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Dragon Drawer |
 | 1.0.x   | :white_check_mark: Fractale Drawer |
 | 1.0.x   | :white_check_mark: Koch Curve Drawer |
+| 1.0.x   | :white_check_mark: Koch Drawer |
 
 ## Reporting a Vulnerability
 
