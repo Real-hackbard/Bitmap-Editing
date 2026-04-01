@@ -76,3 +76,4 @@ Raster images are stored on a computer in the form of a grid of picture elements
 * [Sierpinski Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Sierpinski%20Drawer)
 * [Sphere Gradient Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Sphere%20Gradient%20Drawer)
 * [Fill Polygon](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Fill%20Polygon)
+* [Plasma Drawer](https://github.com/Real-hackbard/Bitmap-Editing/tree/main/Plasma%20Drawer)
