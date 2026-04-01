@@ -61,6 +61,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Sierpinski Drawer |
 | 1.0.x   | :white_check_mark: Sphere Gradient Drawer |
 | 1.0.x   | :white_check_mark: Fill Polygon |
+| 1.0.x   | :white_check_mark: Plasma Drawer |
 
 ## Reporting a Vulnerability
 
